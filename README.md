@@ -1,2 +1,4 @@
 # des_tno_likelihood
  DES TNO likelihood in physical and dynamical properties
+
+**THIS REPOSITORY IS STILL A WORK IN PROGRESS. IT WILL BE UPDATED DURING REVIEW AND PRIOR TO PUBLICATION OF THE RELEVANT PAPER**
